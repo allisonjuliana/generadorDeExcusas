@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(60, 58, 58);
+}
+
+.generador {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+
+#result {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    font-family: cursive;
+}
